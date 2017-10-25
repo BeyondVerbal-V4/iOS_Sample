@@ -10,7 +10,7 @@
 
 NSString *const kMy_API_Key = @"API KEY";
 NSString *const kAuth_URL = @"https://token.beyondverbal.com/token";
-NSString *const kRecording_URL = @"https://apiv4.beyondverbal.com/v3/recording/";
+NSString *const kRecording_URL = @"https://apiv4.beyondverbal.com/v4/recording/";
 
 @interface ApiManager ()
 {
